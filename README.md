@@ -22,16 +22,28 @@ O ChandeFig é um projeto desenvolvido como trabalho para a disciplina de Projet
 
 Para executar o projeto localmente, siga os passos abaixo:
 
+<p align="left">
 1. Clone o projeto
+   
 ```bash
 git clone https://github.com/PauloEduardoPalauro/Maua_Monitoria1
 ```
-<br>
-2. Abra o projeto aonde você o clonou.
+</p>
+
 <br>
 
-3. Abrir alguma página e comece a usar.
+<p align="left">
+2. Abra o projeto aonde você o clonou.
+</p>
+
 <br>
+
+<p align="left">
+ 3. Abra uma das páginas e comece a usar.
+</p>
+
+<br>
+
 
 # Imagens
 
